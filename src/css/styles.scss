@@ -1,0 +1,14 @@
+@import '_variables.scss';
+
+p {
+	font-size: 2rem;
+	a {
+		text-decoration: none;
+	}
+
+	br {
+		border-bottom: 1px;
+	}
+
+	color: $red;
+}
